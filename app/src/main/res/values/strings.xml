@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AIrangefinder</string>
+    <string name="btnText">Calibrate</string>
+    <string name="image_description">Outputting image from camera</string>
+</resources>
